@@ -1,7 +1,7 @@
 # examplePivotGrid
 Example dxPivotGrid by DevExpress
 
-### Basic การสร้าง Pivot Table ด้วย DevExpress
+### Basic การสร้าง Pivot Table ด้วย [DevExpress](https://js.devexpress.com/Documentation/Guide/jQuery_Components/Add_DevExtreme_to_a_jQuery_Application/)
 
 #### Example code (index.html)
 ```sh
